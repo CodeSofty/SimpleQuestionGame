@@ -26,8 +26,7 @@ How to Play:
 - A random number will be rolled and its value will determine the question that is chosen
 - The program will print the question
 - If the user is incorrect, the program will restart
-
--If the user guesses the correct answer, the program will announce they've won
--The program will then restart so the user can play again
+- If the user guesses the correct answer, the program will announce they've won
+- The program will then restart so the user can play again
 
 
